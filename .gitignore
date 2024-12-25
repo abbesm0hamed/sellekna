@@ -1,0 +1,54 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+qrcodegen
+
+node_modules
+
+# Generated QR codes
+*.png
+*.svg
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build directories
+build/
+.deps/
+
+# OS-specific files
+.DS_Store
+.directory
+Thumbs.db
